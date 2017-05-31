@@ -9,7 +9,7 @@ prog = os.path.basename (sys.argv [0])
 cur_dir = os.path.dirname (sys.argv [0])
 
 ### Get the directory with the results
-results_dir = os.path.join (cur_dir, "..", "experiment", "results")
+results_dir = os.path.join (cur_dir, "..", "results")
 
 ### Find files
 info_files = []
