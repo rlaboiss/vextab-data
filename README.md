@@ -6,8 +6,10 @@ the gravity direction. You will find here the raw data and the code for
 processing the raw data and for doing the statistical analysis (in R).
 
 The study related to this data/code is currently under submission to a peer
-reviewed journal. The instruction for running the code is still absent, but
-will be added in the near future. More coming soon.
+reviewed journal.
+
+You will find here the [instructions](analysis/README.md) for running the
+code and the [description](results/README.md) of the data files.
 
 # Licensing terms
 
